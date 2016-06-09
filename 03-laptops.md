@@ -1,6 +1,6 @@
 # Connecting a laptop to the Video Wall
 
-To connect a laptop to the video wall, either a VGA or an HDMI connection can be used.  VGA and HDMI cables can be found to the right-hand side of the video wall (**where they should be returned when finished with**).  The VGA and HDMI ports are located next to the USB sockets, as shown below:
+To connect a laptop to the video wall, either a VGA or an HDMI connection can be used.  VGA and HDMI cables can be found on top of the sound cabinet to the right-hand side of the video wall (**where they should be returned when finished with**).  The VGA and HDMI ports are located next to the USB sockets, as shown below:
 
 ![The location of the VGA and HDMI ports](images/vga_location.jpg)
 

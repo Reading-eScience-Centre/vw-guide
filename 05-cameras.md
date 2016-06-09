@@ -10,7 +10,7 @@ The video wall is connected to three video cameras - two facing the user at the 
 
 These are the names under which the cameras will appear in videoconferencing software.
 
-To control the zoom and pan on the cameras, there is an IR remote control:
+To control the zoom and pan on the cameras, there is an IR remote control which is stored on top of the amplifier cabinet to the right of the video wall (**where it must be returned after use**):
 ![The IR camera remote control](images/remote.jpg)
 
 To select the camera to use, the buttons "1", "2", and "3" should be used. These correspond to the left, rear, and right cameras respectively. Note that the rear camera is usually left switched off. If you wish to use it, it can be switched on with the IR remote control.
